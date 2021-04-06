@@ -3,8 +3,6 @@
   <p>
     <a href="#"><img src="https://github.com/mapaula08/Manual-Stata/blob/main/images/stt.png" width="456" height="143" alt="stata logo" /></a>
   </p>
-  <p align="center">
-
 
 # Manual-Stata
 Econometría con Stata: Aplicaciones a la economía ecuatoriana
