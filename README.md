@@ -6,7 +6,11 @@ El presente manual desarrollando  una  guía detallada  de  los  procesos econom
 
 ## Instrucciones
 
-El documento [Manual_Stata.pdf](https://github.com/mapaula08/Manual-Stata/blob/main/Manual_Stata.pdf), contiene las instrucciones para el desarrollo de 108 ejercicios prácticos utilizando el software estadístico Stata 13.
+En el documento [Manual_Stata.pdf](https://github.com/mapaula08/Manual-Stata/blob/main/Manual_Stata.pdf), se detalla las instrucciones para el desarrollo de 108 ejercicios prácticos utilizando el software estadístico Stata 13.
 
 Estos ejercicios abarcan los 16 primeros capítulos del libro “Econometría” de Gujarati & Porter
 (2010).
+
+Las bases de datos utilizadas en el manual se encuentran dentro de la carpeta [TABLAS DE DATOS](https://github.com/mapaula08/Manual-Stata/tree/main/Base%20de%20datos/TABLAS%20DE%20DATOS).
+
+
