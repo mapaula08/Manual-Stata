@@ -11,6 +11,8 @@ En el documento [Manual_Stata.pdf](https://github.com/mapaula08/Manual-Stata/blo
 Estos ejercicios abarcan los 16 primeros capítulos del libro “Econometría” de Gujarati & Porter
 (2010).
 
-Las bases de datos utilizadas en el manual se encuentran dentro de la carpeta [TABLAS DE DATOS](https://github.com/mapaula08/Manual-Stata/tree/main/Base%20de%20datos/TABLAS%20DE%20DATOS).
+Las bases de datos necesarias para el desarrollo de los ejercicios se encuentran dentro de la carpeta [TABLAS DE DATOS](https://github.com/mapaula08/Manual-Stata/tree/main/Base%20de%20datos/TABLAS%20DE%20DATOS).
+
+
 
 
